@@ -5,6 +5,8 @@ TODO: Problem description
 
 TODO: Advantages of this over other solutions
 
+TODO: Disadvantages
+
 TODO: Disclaimer
 
 TODO: Instructions
